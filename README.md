@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kingdoms27/Kingdoms27/main/assets/void-banner.svg" alt="Void — Kevin Berthet. Desarrollo web y experiencias digitales." width="100%" />
+  <img src="https://raw.githubusercontent.com/Kingdoms27/Kingdoms27/main/assets/void-banner.webp" alt="Void — Kevin Berthet. Desarrollo web y experiencias digitales." width="100%" />
 </p>
 
 <p align="center">
