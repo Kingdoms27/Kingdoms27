@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Void — símbolo V sobre eclipse</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0c15"/><stop offset="1" stop-color="#151322"/></linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c5aaff"/><stop offset=".5" stop-color="#8580ff"/><stop offset="1" stop-color="#78d9ff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#7565d7" stop-opacity=".4"/><stop offset="1" stop-color="#7565d7" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="238" fill="url(#halo)"/>
+  <circle cx="256" cy="256" r="163" fill="none" stroke="#8a73f8" stroke-width="18" opacity=".07"/>
+  <circle cx="256" cy="256" r="155" fill="#0c0d18" stroke="url(#ring)" stroke-width="3"/>
+  <ellipse cx="256" cy="256" rx="218" ry="48" transform="rotate(-28 256 256)" fill="none" stroke="url(#ring)" stroke-width="2" opacity=".42"/>
+  <path d="M164 185L256 351L348 185" fill="none" stroke="#f6f4ff" stroke-width="29" stroke-linejoin="round"/>
+  <circle cx="109" cy="170" r="5" fill="#b8a7ff"/>
+  <circle cx="399" cy="347" r="3" fill="#79d5ff"/>
+</svg>
