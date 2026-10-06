@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="title desc">
+  <title id="title">Void — Kevin Berthet</title>
+  <desc id="desc">Desarrollo web y experiencias digitales. Banner oscuro con un eclipse y acentos violeta y azul.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0c15"/><stop offset="1" stop-color="#151322"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b6a4ff"/><stop offset=".55" stop-color="#7b7cff"/><stop offset="1" stop-color="#77d7ff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#7162db" stop-opacity=".33"/><stop offset="1" stop-color="#7162db" stop-opacity="0"/></radialGradient>
+    <radialGradient id="planet"><stop stop-color="#181829"/><stop offset="1" stop-color="#080911"/></radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#a8a5e3" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1280" height="390" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="390" rx="22" fill="url(#grid)"/>
+  <circle cx="1040" cy="190" r="280" fill="url(#halo)"/>
+  <path d="M780 300C950 355 1150 65 1295 108" stroke="url(#accent)" stroke-opacity=".16" fill="none"/>
+  <path d="M768 318C945 363 1160 82 1295 121" stroke="url(#accent)" stroke-opacity=".08" fill="none"/>
+  <circle cx="1050" cy="185" r="100" fill="none" stroke="url(#accent)" stroke-width="7" filter="url(#glow)" opacity=".75"/>
+  <circle cx="1050" cy="185" r="101" fill="url(#planet)" stroke="url(#accent)" stroke-width="1.8"/>
+  <ellipse cx="1050" cy="185" rx="157" ry="30" transform="rotate(-27 1050 185)" fill="none" stroke="url(#accent)" stroke-width="1" opacity=".45"/>
+  <circle cx="944" cy="110" r="3" fill="#b4adff"/>
+  <circle cx="1160" cy="277" r="2" fill="#7dd6ff"/>
+  <rect x="72" y="60" width="26" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="110" y="67" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3" fill="#c9c6de">KEVIN BERTHET</text>
+  <text x="68" y="203" font-family="Arial,Helvetica,sans-serif" font-size="116" font-weight="700" letter-spacing="8" fill="#f5f4fc">VOID</text>
+  <text x="74" y="251" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#d5d1e6">Desarrollo web y experiencias digitales.</text>
+  <text x="74" y="305" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2" fill="#9592b0">FULL STACK  /  DISEÑO  /  SOLUCIONES DIGITALES</text>
+  <path d="M74 333H722" stroke="#a59fc5" stroke-opacity=".18"/>
+  <rect x=".5" y=".5" width="1279" height="389" rx="22" fill="none" stroke="#858098" stroke-opacity=".2"/>
+</svg>
